@@ -4,6 +4,9 @@ The repo starts with a few resources to get started with conversational AI in ge
 
 # Getting Started
 
+Automation platforms are essential in making personalization across the customer journey. They can leverage customer, product, and interaction data to improve your brand interactions and increase customer lifetime value.
+
+Conversational artificial intelligence (AI) refers to technologies, like chatbots or virtual agents, which users can talk to. They use large volumes of data, machine learning, and natural language processing to help imitate human interactions, recognizing speech and text inputs and translating their meanings across various languages.
 
 # Developer Tools
 - [What is the Botframework](https://docs.microsoft.com/en-gb/azure/bot-service/bot-service-overview?view=azure-bot-service-4.0)
