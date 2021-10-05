@@ -13,6 +13,7 @@ nav:
     - License: license.md
 theme:
   name: 'material'
+
 extra:
   social:
     - icon: fontawesome/brands/twitter
