@@ -1,0 +1,10 @@
+site_name: Awesome Conversational AI 
+site_description: 'a curated list of resources'
+site_author: 'Kay Schneutzer & Holger Imbery'
+docs_dir: docs/
+repo_name: 'assistantbuilders/awesome-conversational-ai'
+repo_url: 'https://github.com/assistantbuilders/awesome-conversational-ai'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
