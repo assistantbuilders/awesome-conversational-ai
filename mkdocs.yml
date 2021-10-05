@@ -13,3 +13,10 @@ nav:
     - License: license.md
 theme:
   name: 'material'
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/holgerimbery
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/schneutzi81
