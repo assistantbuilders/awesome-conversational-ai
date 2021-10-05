@@ -13,4 +13,15 @@ nav:
     - License: license.md
 theme:
   name: 'material'
-
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/holgerimbery
+      name: Holger on Twitter
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/holgerimbery/
+      name: Holger on Linkedin
+    - icon: fontawesome/brands/github
+      link: https://github.com/holgerimbery
+      name: Holger on github
+  copyright: Copyright &copy; 2021 Kay Schneutzer, Holger Imbery
