@@ -27,3 +27,5 @@ extra:
       name: Holger on github
       
 copyright: Copyright &copy; 2021 Holger Imbery
+
+generator: false
