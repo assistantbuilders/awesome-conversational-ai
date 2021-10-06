@@ -5,5 +5,5 @@
 - [Microsoft Botframework Composer Github](https://github.com/microsoft/BotFramework-Composer)
 - [Setup ACS for Azure Bot](https://docs.microsoft.com/en-us/azure/communication-services/quickstarts/telephony-sms/get-phone-number?pivots=platform-azp)
 - [Setup and use telephony channel](https://github.com/microsoft/botframework-telephony/blob/main/README.md)
-- [Setup direct routing infrastucture](https://docs.microsoft.com/en-us/azure/communication-services/concepts/telephony-sms/direct-routing-infrastructure)
+- [Setup direct routing infrastructure](https://docs.microsoft.com/en-us/azure/communication-services/concepts/telephony-sms/direct-routing-infrastructure)
 - [Getting started with a voice assistant - Github](https://github.com/assistantbuilders/ABVoiceAssistant)
