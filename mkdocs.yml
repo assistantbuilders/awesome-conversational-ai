@@ -1,5 +1,6 @@
 site_name: Awesome Conversational AI 
 site_description: 'a curated list of resources'
+site_url: https://assistantbuilders.github.io/awesome-conversational-ai/
 site_author: 'Kay Schneutzer & Holger Imbery'
 docs_dir: docs/
 repo_name: 'assistantbuilders/awesome-conversational-ai'
@@ -32,6 +33,7 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/schneutzi
       name: Kay on Twitter
+  disqus: awesome-conversational-ai
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/kay-schneutzer-50169817
       name: Kay on Linkedin
