@@ -3,7 +3,7 @@
 []()
 # Demos (NTT-internal)
 []()
-[]()
+[scripts for the demos](https://assistantbuilders.github.io/awesome-conversational-ai/demoscripts/)
 # Developer Tools
 - [Getting started with a voice assistant - Github](https://github.com/assistantbuilders/ABVoiceAssistant)
 - [What is the Botframework](https://docs.microsoft.com/en-gb/azure/bot-service/bot-service-overview?view=azure-bot-service-4.0)
