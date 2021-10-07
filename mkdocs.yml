@@ -33,11 +33,10 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/schneutzi
       name: Kay on Twitter
-  disqus: awesome-conversational-ai
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/kay-schneutzer-50169817
       name: Kay on Linkedin
     - icon: fontawesome/brands/github
       link: https://github.com/schneutzi81
       name: Kay on github
-      
+  disqus: awesome-conversational-ai
