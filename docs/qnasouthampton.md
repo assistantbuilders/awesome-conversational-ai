@@ -1,28 +1,18 @@
 
-[link to the southamptom bot](http://www.southampton.gov.uk/contact-us/chatbot.aspx)
+[link to the southampton bot](http://www.southampton.gov.uk/contact-us/chatbot.aspx)
+
+# standard questions with variation in asking
+&rarr; How do i check my rent ?
+<br>
+&rarr; Where can i see my rent balance ?
+
+# standard question with multiturn
+&rarr; Where can i park ?
+<br>
+&rarr; Where can i park my motorhome ?
 
 
-how do i check my rent ?
-Where can i see my rent balance ?
-
-Where can i park ?
-where can i park my motorhome ?
-
-how do i get rid of tin foil ?
-
-can i recycle batteries ?
-
-can car batteries be recycled ?
-What do you think about listed Buildings ?
-
-I fell like takeing an overdose ?
-
-how is the weather ?
-
-what do you think of busddhists 
-Is there a buddhist centee in souuthhampton ?
-
-Is there a Buddhist center in Southampton ?
-
-where do you live ?
-Who is your boss ?
+# chitchat
+&rarr; Where do you live ?
+<br>
+&rarr; Who is your boss ?
