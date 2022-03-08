@@ -5,7 +5,7 @@ Deutsch
 
 Telefonnummer: please ask an NTT empleyee for the number 
 
-BOT: Willkommen beim virtuellen Assistenten von Beta camma, Sie können mit mir wie mit einem Menschen sprechen. Was kann ich für Sie tuen.
+BOT: Willkommen beim virtuellen Assistenten von BetaGamma, Sie können mit mir wie mit einem Menschen sprechen. Was kann ich für Sie tuen.
 
 User: Ich kann meine Rechnung nicht zahlen
 
