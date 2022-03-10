@@ -1,9 +1,9 @@
-BetaGamma ist unsere Beispiel Kunden. Diese Demo demonstiert NTT Germanies Concersational AI Anstatz für Telefonie und Sprachen - Text, Bild, VR etc. ist nicht teil der Demo
+BetaGamma ist unser Beispiel Kunde. Diese Demo zeigt NTT Germany Conversational AI Anstatz für Telefonie und Sprachen - Text, Bild, VR etc. ist nicht teil der Demo
 
 Script Sprach: Deutsch
 
 Vorraussetzungen: 
-Telefonunmmer von NTT. solltest du die Telefonnummer nicht kennen schreib eine chat narricht via Teams an  Holger.Imbery@global.ntt oder Kay.schneutzer@global.ntt
+Telefonunmmer von NTT. Solltest du die Telefonnummer nicht kennen schreib eine chat Nachricht via Teams an  Holger.Imbery@global.ntt oder Kay.schneutzer@global.ntt
 Zugang zu folgendem Teams channel. Zugang nur für NTT Mitarbeiter 
 
 https://teams.microsoft.com/l/channel/19%3a39973eb66db84496a3cca003ca87fc5d%40thread.tacv2/call%2520queue%2520sales?groupId=68b6da0c-1d3e-4cc0-a939-b48c4cb3db4c&tenantId=e3cf3c98-a978-465f-8254-9d541eeea73c
