@@ -1,5 +1,5 @@
 # Demos (public)
-- [Q&A  Southampton Bot](https://assistantbuilders.github.io/awesome-conversational-ai/BetaGamma/)
+- [Voice Teams Demo BetaGamma](https://assistantbuilders.github.io/awesome-conversational-ai/BetaGamma/)
 - [Demo for B](https://hello.global.ntt)
 - [Demo for C](https://hello.global.ntt)
 
