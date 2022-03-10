@@ -1,12 +1,8 @@
-# Demos (public)
+# Demos 
 - [Voice Teams Demo BetaGamma](https://assistantbuilders.github.io/awesome-conversational-ai/BetaGamma/)
 #- [Demo for B](https://hello.global.ntt)
 #- [Demo for C](https://hello.global.ntt)
 
-# Demos (NTT-internal)
-#- [Demo for A](https://hello.global.ntt)
-#- [Demo for B](https://hello.global.ntt)
-#- [Demo for C](https://hello.global.ntt)
 
 # Developer Tools
 - [Getting started with a voice assistant - Github](https://github.com/assistantbuilders/ABVoiceAssistant)
