@@ -10,7 +10,7 @@ https://teams.microsoft.com/l/channel/19%3a39973eb66db84496a3cca003ca87fc5d%40th
 
 Demo Scipt:
 
-BOT: Willkommen beim virtuellen Assistenten von BetaGamma, Sie können mit mir wie mit einem Menschen sprechen. Was kann ich für Sie tuen.
+#BOT: Willkommen beim virtuellen Assistenten von BetaGamma, Sie können mit mir wie mit einem Menschen sprechen. Was kann ich für Sie tuen.
 
 User: Ich kann meine Rechnung nicht zahlen
 
