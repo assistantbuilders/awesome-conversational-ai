@@ -49,3 +49,6 @@ User: 1234567
 
 Bot: Ich verbinde sie mit dem Vertrieb
 Bot "transferiert"
+
+
+![teams session](https://raw.githubusercontent.com/assistantbuilders/awesome-conversational-ai/main/docs/assets/betagammademo.jpg)
