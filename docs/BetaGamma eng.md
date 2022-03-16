@@ -1,20 +1,19 @@
-BetaGamma ist unser Beispiel Kunde. Diese Demo zeigt NTT Germany Conversational AI Anstatz für Telefonie und Sprachen - Text, Bild, VR etc. ist nicht teil der Demo
+BetaGamma is our example customer. This demo shows NTT Germany Conversational AI Anstatz for telephony and languages - text, image, VR etc. is not part of the demo
 
-Script Sprach: Deutsch
+Script Language: English
 
-Vorraussetzungen: 
-Telefonunmmer von NTT. Solltest du die Telefonnummer nicht kennen schreib eine chat Nachricht via Teams an  Holger.Imbery@global.ntt oder Kay.schneutzer@global.ntt
-Zugang zu folgendem Teams channel. Zugang nur für NTT Mitarbeiter 
+Requirements: 
+NtT's phone chat. If you do not know the phone number write a chat message via teams to Holger.Imbery@global.ntt or Kay.schneutzer@global.ntt
+Access to the following teams channel. Access only for NTT employees
 
-https://teams.microsoft.com/l/channel/19%3a39973eb66db84496a3cca003ca87fc5d%40thread.tacv2/call%2520queue%2520sales?groupId=68b6da0c-1d3e-4cc0-a939-b48c4cb3db4c&tenantId=e3cf3c98-a978-465f-8254-9d541eeea73c
 
-Demo Scipt:
+-[link to teams channel NTT employee only](https://teams.microsoft.com/l/channel/19%3a39973eb66db84496a3cca003ca87fc5d%40thread.tacv2/call%2520queue%2520sales?groupId=68b6da0c-1d3e-4cc0-a939-b48c4cb3db4c&tenantId=e3cf3c98-a978-465f-8254-9d541eeea73c)
 
 Demo Skript English:
 
 
 English:
-PhoneNumber: +49 3328 4772408
+PhoneNumber: - [link NTT Employee only](https://teams.microsoft.com/l/channel/19%3A39973eb66db84496a3cca003ca87fc5d%40thread.tacv2/tab%3A%3A257ebb2e-017b-4001-989e-4db9fa4370fa?groupId=68b6da0c-1d3e-4cc0-a939-b48c4cb3db4c&tenantId=e3cf3c98-a978-465f-8254-9d541eeea73c)
 Bot: Welcome to the virtual assistant of L'oreal, you can talk to me like a human being. What can I do for you?
 
 
