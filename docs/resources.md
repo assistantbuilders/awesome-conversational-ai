@@ -1,6 +1,6 @@
 # Demos 
 - [Voice Teams Demo BetaGamma German](https://assistantbuilders.github.io/awesome-conversational-ai/BetaGamma/)
-- [Voice Teams Demo BetaGamma English](https://assistantbuilders.github.io/awesome-conversational-ai/BetaGammaeng.md/)
+- [Voice Teams Demo BetaGamma English](https://assistantbuilders.github.io/awesome-conversational-ai/BetaGammaeng/)
 
 # Developer Tools
 - [Getting started with a voice assistant - Github](https://github.com/assistantbuilders/ABVoiceAssistant)
