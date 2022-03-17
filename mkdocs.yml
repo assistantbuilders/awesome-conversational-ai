@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2021 Kay Schneutzer - Holger Imbery
 nav:
     - Home: index.md
     #- Blog: blog.md
-    - Resources: resources.md
+    - Demos: resources.md
     - About: about.md
     - License: license.md
 theme:
