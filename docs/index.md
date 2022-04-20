@@ -6,6 +6,6 @@ Thanks to the pandemic over the last three years, we have learned how to use con
 
 # Getting Started
 
-we are currently documenting our Demo and a selected project. Feel free to contact us and get started with your first Conversatonal AI experiment
+We are currently documenting our Demo and a selected project. Feel free to contact us and get started with your first Conversatonal AI experiment
 
 Conversational artificial intelligence (AI) refers to technologies, like chatbots or virtual agents, which users can talk to. They use large volumes of data, machine learning, and natural language processing to help imitate human interactions, recognizing speech and text inputs and translating their meanings across various languages.
