@@ -4,11 +4,8 @@ Since 2017, we have been talking to our customers about the fact that the virtua
 Thanks to the pandemic over the last three years, we have learned how to use conversational AI in a much more targeted way. Technologies like Microsoft Teams with a variety of communication channels are simultaneously a blessing and a curse. It has become increasingly difficult for individuals to manage this multitude of information and channels. And that's precisely where we come in. Every question has a correct answer. But in today's digital age, every question has not just the right answer, but also the right channel. This mixing ratio of communication channels is a key to success, and this is where AI can help. It's perfectly fine to use a voice assistant to query opening hours. But it's not okay to ignore letters of complaint, to leave them behind or even worse to have them processed by a bot or a system. As you can see, it's getting a little complex. However, the sweet spot is that with AI we can now pursue several target variables at the same time. We can make costs more efficient by pushing simple questions onto channels designed for them. We can increase customer satisfaction by ensuring the important relevant enquiries get directed to channels of higher quality, such as leading with a personal conversation. And of course, we can also increase quality because we get more transparency about what our customers want. This means that our projects are no longer focused on just one variable. In order to better grasp this potential, we will show you a variety of examples from the NTT projects.
 
 
-
-The repo starts with a few resources to get started with conversational AI in general. 
-
 # Getting Started
 
-we are currently documention our Demo and a selected project. Feel free to contact us and get started with your first Conversatonal AI experiment
+we are currently documenting our Demo and a selected project. Feel free to contact us and get started with your first Conversatonal AI experiment
 
 Conversational artificial intelligence (AI) refers to technologies, like chatbots or virtual agents, which users can talk to. They use large volumes of data, machine learning, and natural language processing to help imitate human interactions, recognizing speech and text inputs and translating their meanings across various languages.
