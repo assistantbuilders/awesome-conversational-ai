@@ -1,9 +1,9 @@
 # Demos 
 [Demo-Environment](https://www.nttdemo.de)   
-please find our demo environment within an own domain [www.nttdemo.de](https://www.nttdemo.de).   
+find our demo environment within an own domain [www.nttdemo.de](https://www.nttdemo.de).   
 Please ask for password.   
-  - demo for virtual assistant (text chat/voice bot) incl. demo script in german
-  - demo for virtual assistant (text chat/voice bot) incl. demo script in english
+ - demo for virtual assistant (text chat/voice bot) incl. demo script in german
+ - demo for virtual assistant (text chat/voice bot) incl. demo script in english
 
 
 
