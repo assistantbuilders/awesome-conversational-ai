@@ -1,6 +1,11 @@
 # Demos 
-- [Voice Teams Demo BetaGamma German](https://assistantbuilders.github.io/awesome-conversational-ai/BetaGamma/)
-- [Voice Teams Demo BetaGamma English](https://assistantbuilders.github.io/awesome-conversational-ai/BetaGammaeng/)
+[Demo-Environment](https://www.nttdemo.de)   
+please find our demo environment within an own domain [www.nttdemo.de](https://www.nttdemo.de).   
+Please ask for password.   
+  - demo for virtual assistant (text chat/voice bot) incl. demo script in german
+  - demo for virtual assistant (text chat/voice bot) incl. demo script in english
+
+
 
 # Developer Tools
 - [Getting started with a voice assistant - Github](https://github.com/assistantbuilders/ABVoiceAssistant)
