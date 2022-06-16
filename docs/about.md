@@ -1,4 +1,2 @@
-# Assistant Builders are
+# Assistant Builder
 [Kay Schneutzer](https://github.com/schneutzi-81)
-
-[Holger Imbery](https://github.com/holgerimbery)
